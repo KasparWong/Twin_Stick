@@ -7,6 +7,7 @@ public class MyScript : MonoBehaviour {
 	void Start () {
 
         print("Hi");
+        print("Bye");
 
 	
 	}
