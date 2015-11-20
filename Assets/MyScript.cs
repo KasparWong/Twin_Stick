@@ -8,6 +8,7 @@ public class MyScript : MonoBehaviour {
 
         print("Hi");
         print("Bye");
+        print("Added something else");
 
 	
 	}
