@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>d:\user\documents\game_design\unity\unity projects\twin_stick\twin_stick\assets\myscript.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\user\Documents\Game_Design\Unity\Unity Projects\Twin_Stick\Twin_Stick\Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\user\Documents\Game_Design\Unity\Unity Projects\Twin_Stick\Twin_Stick\Assets\Player.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
